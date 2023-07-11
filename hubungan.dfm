@@ -266,7 +266,7 @@ object Form10: TForm10
     Database = 'database_siswa'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 'D:\Rnldi-PC\S4\UAS-VISUAL-2-main\libmysql.dll'
+    LibraryLocation = 'D:\MuhammadLukmanNulHakim_2110010304_TugasAkhir\libmysql.dll'
     Left = 616
     Top = 16
   end

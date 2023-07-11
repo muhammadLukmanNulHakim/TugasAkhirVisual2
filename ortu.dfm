@@ -332,17 +332,19 @@ object Form5: TForm5
     ControlsCodePage = cGET_ACP
     UTF8StringsAsWideField = False
     AutoEncodeStrings = False
+    Connected = True
     HostName = 'localhost'
     Port = 3306
     Database = 'database_siswa'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 'D:\Rnldi-PC\S4\UAS-VISUAL-2-main\libmysql.dll'
+    LibraryLocation = 'D:\MuhammadLukmanNulHakim_2110010304_TugasAkhir\libmysql.dll'
     Left = 704
     Top = 56
   end
   object zqry1: TZQuery
     Connection = con1
+    Active = True
     SQL.Strings = (
       'select * from tabel_ortu')
     Params = <>
