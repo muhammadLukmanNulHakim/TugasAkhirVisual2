@@ -10,6 +10,9 @@ uses
 
 type
   TForm1 = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
 
 
 
