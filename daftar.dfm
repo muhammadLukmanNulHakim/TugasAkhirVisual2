@@ -4,7 +4,7 @@ object Form3: TForm3
   Width = 537
   Height = 391
   Caption = 'DAFTAR'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

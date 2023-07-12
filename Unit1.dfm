@@ -1,10 +1,10 @@
 object Form1: TForm1
-  Left = 346
-  Top = 281
+  Left = 391
+  Top = 259
   Width = 662
   Height = 266
   Caption = 'Data pembuat'
-  Color = clGreen
+  Color = clPurple
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

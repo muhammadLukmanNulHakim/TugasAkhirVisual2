@@ -4,7 +4,7 @@ object Form7: TForm7
   Width = 683
   Height = 601
   Caption = 'DATA WALI KELAS'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -136,6 +136,7 @@ object Form7: TForm7
     Top = 344
     Width = 617
     Height = 193
+    Color = clSilver
     DataSource = ds1
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

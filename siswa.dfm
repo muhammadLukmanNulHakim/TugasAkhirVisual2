@@ -4,7 +4,7 @@ object Form6: TForm6
   Width = 682
   Height = 629
   Caption = 'Data Siswa'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -162,6 +162,7 @@ object Form6: TForm6
     Top = 384
     Width = 617
     Height = 193
+    Color = clSilver
     DataSource = ds1
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

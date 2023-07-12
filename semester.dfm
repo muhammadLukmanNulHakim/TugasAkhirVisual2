@@ -4,7 +4,7 @@ object Form11: TForm11
   Width = 694
   Height = 675
   Caption = 'DATA SEMESTER'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -149,6 +149,7 @@ object Form11: TForm11
     Top = 344
     Width = 617
     Height = 193
+    Color = clSilver
     DataSource = ds1
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

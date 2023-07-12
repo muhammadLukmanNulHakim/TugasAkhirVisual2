@@ -4,7 +4,7 @@ object Form10: TForm10
   Width = 692
   Height = 675
   Caption = 'DATA HUBUNGAN'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -97,6 +97,7 @@ object Form10: TForm10
     Top = 344
     Width = 617
     Height = 193
+    Color = clSilver
     DataSource = ds1
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

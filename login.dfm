@@ -4,7 +4,7 @@ object Form2: TForm2
   Width = 535
   Height = 377
   Caption = 'LOGIN'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
